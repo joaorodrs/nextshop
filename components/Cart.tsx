@@ -1,6 +1,8 @@
+import styles from '../styles/components/Cart.module.css'
+
 const Cart: React.FC = () => {
   return (
-    <h1>Cart</h1>
+    <main className={styles.main}>cool</main>
   )
 }
 

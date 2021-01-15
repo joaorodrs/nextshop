@@ -19,7 +19,9 @@ const Home: React.FC = () => {
         <h1 className={styles.homeTitle}>Canecas para Gamers</h1>
         <div className={styles.cardContainer}>
           <ProductList />
+          <div className={styles.divider} />
           <CurrentProduct />
+          <div className={styles.divider} />
           <Cart />
         </div>
       </main>

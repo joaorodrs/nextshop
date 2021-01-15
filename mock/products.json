@@ -1,38 +1,92 @@
 [
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90"
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   }
 ]
