@@ -1,0 +1,24 @@
+.container {
+  overflow-y: scroll;
+  direction: rtl;
+  padding-left: 8px;
+}
+
+.container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.container::-webkit-scrollbar-track {
+  border-radius: 8px;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background: #999;
+  border-radius: 10px;
+}
+
+.productContainer {
+  padding: 5px;
+  margin-top: 10px;
+  direction: ltr;
+}

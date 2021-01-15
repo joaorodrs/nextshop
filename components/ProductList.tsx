@@ -1,6 +1,22 @@
+import styles from '../styles/components/ProductList.module.css'
+
+import productsMock from '../mock/products.json'
+
 const ProductList: React.FC = () => {
+  const products = productsMock
+
   return (
-    <h1>ProductList</h1>
+    <div className={styles.container}>
+      {products.map(product => (
+        <>
+          <div />
+          <div className={styles.productContainer}>
+            <h3>{product.productName}</h3>
+            <p>{product.productPrice}</p>
+          </div>
+        </>
+      ))}
+    </div>
   )
 }
 
