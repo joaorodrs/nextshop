@@ -1,16 +1,25 @@
+import React from 'react'
 import Head from 'next/head'
 
-export default function Home() {
+import styles from '../styles/pages/Home.module.css'
+
+const Home: React.FC = () => {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>NextShop</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1>Hello World!!!</h1>
+      <main className={styles.main}>
+        <div>
+          <ProductList />
+          <CurrentProduct />
+          <Cart />
+        </div>
       </main>
     </div>
   )
 }
+
+export default Home
