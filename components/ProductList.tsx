@@ -1,5 +1,7 @@
 const ProductList: React.FC = () => {
-  return <div>Helloo</div>
+  return (
+    <h1>ProductList</h1>
+  )
 }
 
 export default ProductList
