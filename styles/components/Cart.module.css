@@ -1,3 +1,76 @@
 .main {
-  min-width: 20%;
+  min-width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cartProductsContainer {
+  margin-top: 15px;
+  overflow-y: scroll;
+  align-self: flex-end;
+  height: 60%;
+  width: 100%;
+  padding-right: 8px;
+}
+
+.cartProductsContainer::-webkit-scrollbar {
+  width: 9px;
+}
+
+.cartProductsContainer::-webkit-scrollbar-track {
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.2)
+}
+
+.cartProductsContainer::-webkit-scrollbar-thumb {
+  background: #999;
+  border-radius: 10px;
+}
+
+.productContainer {
+  padding: 5px;
+  margin-bottom: 10px;
+  direction: ltr;
+  cursor: pointer;
+  transition: 0.3s;
+  text-align: right;
+  color: green;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.productContainer button {
+  opacity: 0.3;
+  transition: opacity 0.3s;
+  margin-right: 20px;
+  cursor: pointer
+}
+
+.productContainer button:hover {
+  opacity: 1;
+}
+
+.main > button {
+  margin-top: 15px;
+  background: green;
+  width: 130px;
+  box-shadow: 10px 10px 30px rgb(0,0,0,0.1);
+  height: 40px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: opacity 0.3s;
+  font-size: 18px;
+  font-weight: bold;
+  color: white
+}
+
+.main > button:hover {
+  opacity: 0.6;
+}
+
+.main > button:focus {
+  opacity: 0.6;
 }

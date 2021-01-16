@@ -10,15 +10,12 @@ const ProductList: React.FC = () => {
   return (
     <div className={styles.container}>
       {products.map(product => (
-        <>
-          <div />
-          <div className={styles.productContainer} onClick={
-            () => sendToCurrentProduct(product.productName, product.productPrice)
-          }>
-            <h3>{product.productName}</h3>
-            <p>{product.productPrice}</p>
-          </div>
-        </>
+        <div key={product.productId} className={styles.productContainer} onClick={
+          () => sendToCurrentProduct(product.productName, product.productPrice)
+        }>
+          <h3>{product.productName}</h3>
+          <p>{product.productPrice}</p>
+        </div>
       ))}
     </div>
   )

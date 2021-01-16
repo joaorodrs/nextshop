@@ -1,91 +1,109 @@
 [
   {
     "productName": "Something",
+    "productId": 1,
+    "productPrice": "R$ 49,90",
+    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  },
+  {
+    "productName": "Something",
+    "productId": 2,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
     "productPrice": "R$ 49,90",
+    "productId": 3,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 4,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 5,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 6,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 7,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 8,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 9,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 10,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 12,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 13,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 14,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 15,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 16,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 17,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
+    "productId": 18,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
-  },
-  {
-    "productName": "Something",
+    "productId": 19,
     "productPrice": "R$ 49,90",
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   }
