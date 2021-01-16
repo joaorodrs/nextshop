@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .cartProductsContainer {
@@ -12,6 +13,7 @@
   height: 60%;
   width: 100%;
   padding-right: 8px;
+  user-select: none;
 }
 
 .cartProductsContainer::-webkit-scrollbar {
@@ -42,6 +44,14 @@
   justify-content: flex-end;
 }
 
+.productInfo {
+  transition: opacity 0.3s;
+}
+
+.productInfo:hover {
+  opacity: 0.5;
+}
+
 .productContainer button {
   opacity: 0.3;
   transition: opacity 0.3s;
@@ -64,7 +74,7 @@
   transition: opacity 0.3s;
   font-size: 18px;
   font-weight: bold;
-  color: white
+  color: white;
 }
 
 .main > button:hover {
