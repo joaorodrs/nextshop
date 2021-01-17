@@ -48,6 +48,12 @@
   transition: opacity 0.3s;
 }
 
+.productInfo h3 {
+  max-width: 5em;
+  white-space: nowrap;
+  overflow: hidden
+}
+
 .productInfo:hover {
   opacity: 0.5;
 }

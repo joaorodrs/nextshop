@@ -16,7 +16,7 @@ const Home: React.FC = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.homeTitle}>Canecas para Gamers</h1>
+        <h1 className={styles.homeTitle}>Game Store</h1>
         <div className={styles.cardContainer}>
           <ProductList />
           <div className={styles.divider} />

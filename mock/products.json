@@ -1,110 +1,110 @@
 [
   {
-    "productName": "Something",
+    "productName": "Star Wars Battlefront 2 (Xbox One)",
     "productId": 1,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 149.99,
+    "productDescription": "Star Wars Battlefront II é um jogo de ação de tiro em primeira e terceira pessoa, baseado na franquia Star Wars em desenvolvimento pela DICE, em colaboração com a Criterion Games e Motive Studios e publicado pela Electronic Arts."
   },
   {
-    "productName": "Something",
+    "productName": "Arma 3 (PC)",
     "productId": 2,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 99.90,
+    "productDescription": "ARMA 3 é um videojogo de mundo aberto militar tático de tiro em primeira e terceira pessoa desenvolvido pelo estúdio checo Bohemia Interactive Studio, para o Microsoft Windows."
   },
   {
-    "productName": "Something",
-    "productPrice": "R$ 49,90",
+    "productName": "Mario 64 (Nintendo Switch)",
+    "productPrice": 49.90,
     "productId": 3,
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productDescription": "Super Mario 64 é um jogo eletrônico de plataforma desenvolvido pela Nintendo Entertainment Analysis & Development e publicado pela Nintendo."
   },
   {
-    "productName": "Something",
+    "productName": "Battlefield 4 (PlayStation 4)",
     "productId": 4,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 89.90,
+    "productDescription": "Battlefield 4 é um jogo de tiro em primeira pessoa desenvolvido pela DICE e publicado pela Electronic Arts. É o décimo terceiro título da série, sequência de Battlefield 3, e foi lançado entre outubro e novembro de 2013."
   },
   {
-    "productName": "Something",
+    "productName": "Battlefield 3 (Xbox 360)",
     "productId": 5,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 75.99,
+    "productDescription": "Battlefield 3 é um jogo de tiro em primeira pessoa desenvolvido pela DICE e publicado pela Electronic Arts. Lançado em 25 de outubro de 2011."
   },
   {
-    "productName": "Something",
+    "productName": "Life is Strange (PC)",
     "productId": 6,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 49.90,
+    "productDescription": "Life Is Strange é uma franquia de jogos eletrônicos episódicos de aventura gráfica publicados pela Square Enix. A franquia foi idealizada pela Dontnod Entertainment e estreou com o lançamento do jogo de mesmo nome, que foi dividido em cinco episódios lançados ao longo de 2015."
   },
   {
-    "productName": "Something",
+    "productName": "Minecraft (PlayStation 4)",
     "productId": 7,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 125.98,
+    "productDescription": "Minecraft é um jogo eletrônico sandbox de sobrevivência criado pelo desenvolvedor sueco Markus Notch Persson e posteriormente desenvolvido e publicado pela Mojang Studios, cuja propriedade intelectual foi obtida pela Microsoft em 2014. Lançado inicialmente em maio de 2009 como um projeto em desenvolvimento, seu lançamento completo ocorreu em novembro de 2011."
   },
   {
-    "productName": "Something",
+    "productName": "Cyberpunk 2077 (Xbox Series X)",
     "productId": 8,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 199.90,
+    "productDescription": "Cyberpunk 2077 é um jogo eletrônico de RPG de ação desenvolvido e publicado pela CD Projekt Red. Lançado em 10 de dezembro de 2020."
   },
   {
-    "productName": "Something",
+    "productName": "Minecraft (Xbox One)",
     "productId": 9,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 99.99,
+    "productDescription": "Minecraft é um jogo eletrônico sandbox de sobrevivência criado pelo desenvolvedor sueco Markus Notch Persson e posteriormente desenvolvido e publicado pela Mojang Studios, cuja propriedade intelectual foi obtida pela Microsoft em 2014. Lançado inicialmente em maio de 2009 como um projeto em desenvolvimento, seu lançamento completo ocorreu em novembro de 2011."
   },
   {
-    "productName": "Something",
+    "productName": "Call Of Duty MW (PlayStation 4)",
     "productId": 10,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 126.99,
+    "productDescription": "Call of Duty: Modern Warfare é um jogo eletrônico de tiro em primeira pessoa produzido pela Infinity Ward. Foi publicado pela Activision em 25 de outubro de 2019."
   },
   {
-    "productName": "Something",
+    "productName": "Cyberpunk 2077 (PlayStation 5)",
     "productId": 12,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 236.90,
+    "productDescription": "Cyberpunk 2077 é um jogo eletrônico de RPG de ação desenvolvido e publicado pela CD Projekt Red. Lançado em 10 de dezembro de 2020."
   },
   {
-    "productName": "Something",
+    "productName": "Call Of Duty Cold War (PlayStation 5)",
     "productId": 13,
-    "productPrice": "R$ 49,90",
+    "productPrice": 209.99,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
-    "productName": "Something",
+    "productName": "Ori (Xbox One)",
     "productId": 14,
-    "productPrice": "R$ 49,90",
-    "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    "productPrice": 109.00,
+    "productDescription": "Ori and the Will of the Wisps é um jogo eletrônico metroidvania de aventura e plataforma desenvolvido pela Moon Studios e publicado pela Xbox Game Studios Europe."
   },
   {
     "productName": "Something",
     "productId": 15,
-    "productPrice": "R$ 49,90",
+    "productPrice": 49.90,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
     "productId": 16,
-    "productPrice": "R$ 49,90",
+    "productPrice": 49.90,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
     "productId": 17,
-    "productPrice": "R$ 49,90",
+    "productPrice": 49.90,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
     "productId": 18,
-    "productPrice": "R$ 49,90",
+    "productPrice": 49.90,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   },
   {
     "productName": "Something",
     "productId": 19,
-    "productPrice": "R$ 49,90",
+    "productPrice": 49.90,
     "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
   }
 ]
