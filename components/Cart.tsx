@@ -28,12 +28,12 @@ const Cart: React.FC = () => {
       <FiShoppingCart size={35} color="green" />
       <div className={styles.cartProductsContainer}>
         {cartProducts.map(product => (
-          <div key={product.productId} className={styles.productContainer} onClick={() => sendToCurrentProduct(product)}>
+          <div key={product.productId} className={styles.productContainer}>
             <button onClick={() => removeProductFromCart(product)}>
               <FiX size={22} color="gray"/>
             </button>
             
-            <div className={styles.productInfo}>
+            <div className={styles.productInfo} onClick={() => sendToCurrentProduct(product)}>
               <h3>{product.productName}</h3>
               <p>{(product.productPrice).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'})}</p>
             </div>
@@ -41,7 +41,7 @@ const Cart: React.FC = () => {
         ))}
       </div>
       <button>
-        Checkout
+        Finalizar
       </button>
     </main>
   )

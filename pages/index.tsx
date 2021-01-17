@@ -11,7 +11,7 @@ const Home: React.FC = () => {
   return (
     <div>
       <Head>
-        <title>NextShop</title>
+        <title>GameStore</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

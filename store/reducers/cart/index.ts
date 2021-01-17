@@ -11,7 +11,7 @@ const reducer = (state = initialState, action) => {
     case PRODUCT_ADD:
       return [ ...state, { ...action.payload } ]
     case PRODUCT_REMOVE:
-      return state.filter(product => product !== action.payload)
+      return state.filter(product => product?.productId !== action.payload.productId)
     default:
       return state
   }
