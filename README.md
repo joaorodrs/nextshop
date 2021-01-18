@@ -3,6 +3,8 @@
 
 <h2 align="center">A simple game shopping application for Redux, NextJS and ReactJS code training</h2>
 
+# ✨ [Preview](https://nextshop-mu.vercel.app/)
+
 # ❓ About
 - This web application simulates an usual online game shopping, with a list of products, the details of the selected product and an option to add and remove the product from a cart
 - Is entirely made with NextJS and Redux, using the following dependencies and development dependencies:
