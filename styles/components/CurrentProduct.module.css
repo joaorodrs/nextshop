@@ -34,7 +34,7 @@
 
 .addToCartButton {
   margin-top: 25px;
-  width: 130px;
+  padding: 0 20px;
   box-shadow: 10px 10px 30px rgb(0,0,0,0.1);
   height: 40px;
   border-radius: 6px;

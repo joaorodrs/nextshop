@@ -32,7 +32,7 @@ const CurrentProduct: React.FC = () => {
 
       {products.productName && (
         <button className={styles.addToCartButton} onClick={addProductToCart}>
-          Add to cart
+          Adicionar ao carrinho
         </button>
       )}
     </main>
